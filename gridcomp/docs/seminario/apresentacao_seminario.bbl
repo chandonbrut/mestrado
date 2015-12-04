@@ -1,0 +1,10 @@
+\begin{thebibliography}{}
+
+\bibitem[Dean and Ghemawat, 2004]{google_mapreduce}
+Dean, J. and Ghemawat, S. (2004).
+\newblock Mapreduce: Simplified data processing on large clusters.
+\newblock In {\em Proceedings of the 6th Conference on Symposium on Opearting
+  Systems Design \& Implementation - Volume 6}, OSDI'04, pages 10--10,
+  Berkeley, CA, USA. USENIX Association.
+
+\end{thebibliography}
